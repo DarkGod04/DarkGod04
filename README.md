@@ -138,16 +138,23 @@ I'm a Computer Science student focused on building performant, intuitive web int
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">
-    <a href="https://github.com/DarkGod04/e-commerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkGod04&repo=e-commerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="knowflare"></a>
-    <a href="https://github.com/DarkGod04/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkGod04&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
-    <!--
-    <a href="https://github.com/sonwjnn/rediscord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sonwjnn&repo=rediscord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rediscord"></a>
-    <a href="https://github.com/sonwjnn/ecommerce-store"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sonwjnn&repo=ecommerce-store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ecommerce-store"></a>
-    <a href="https://github.com/sonwjnn/sondraw-FE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sonwjnn&repo=sondraw-FE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sondraw-FE"></a>
-    <a href="https://github.com/sonwjnn/sondraw-BE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sonwjnn&repo=sondraw-BE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sondraw-BE"></a>
-  -->
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DarkGod04/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkGod04&theme=dracula&hide_border=true&show_icons=true&repo=portfolio" alt="Portfolio" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DarkGod04/e-commerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkGod04&theme=dracula&hide_border=true&show_icons=true&repo=e-commerce" alt="My Portfolio Website" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 <div align="center">
