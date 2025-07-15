@@ -140,7 +140,7 @@ I'm a Computer Science student focused on building performant, intuitive web int
 
 <p align="center">
     <a href="https://github.com/DarkGod04/e-commerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkGod04&repo=e-commerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="knowflare"></a>
-    <a href="https://github.com/sonwjnn/respotify"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkGod04&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="respotify"></a>
+    <a href="https://github.com/DarkGod04/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarkGod04&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
     <!--
     <a href="https://github.com/sonwjnn/rediscord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=sonwjnn&repo=rediscord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rediscord"></a>
     <a href="https://github.com/sonwjnn/ecommerce-store"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sonwjnn&repo=ecommerce-store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ecommerce-store"></a>
